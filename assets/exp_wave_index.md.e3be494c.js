@@ -1,4 +1,4 @@
-import{B as u,d as f,R as p,D as _,b as w,S as v,W as g,C as x,e as S}from"./chunks/three.module.f91d972d.js";import{d as y,o as c,c as l,_ as b,e as P,a as h}from"./app.e4e9cbfd.js";const R={id:"waves"},C={__name:"waves",setup(d){const a=`
+import{B as u,d as f,R as p,D as _,b as w,S as v,W as g,C as x,e as S}from"./chunks/three.module.f91d972d.js";import{d as y,o as c,c as l,_ as b,e as P,a as h}from"./app.707b8cc5.js";const R={id:"waves"},C={__name:"waves",setup(d){const a=`
 attribute vec3 position;
 
 void main()	{
